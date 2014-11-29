@@ -1,4 +1,4 @@
-package linkedlistwriter
+package linkedlist
 
 import "github.com/clipperhouse/typewriter"
 

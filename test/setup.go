@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	_ "github.com/clipperhouse/linkedlistwriter"
+	_ "github.com/clipperhouse/linkedlist"
 	"github.com/clipperhouse/typewriter"
 )
 
